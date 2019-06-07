@@ -1,0 +1,34 @@
+
+h4 {
+    color: #5c564a;
+    margin-top: 130px;
+    text-align: center;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: violet;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 3px darkgray;
+}
+.container-home span{
+    padding: 15px 15px;
+}
+@media screen and (max-width: 600px) {
+  h4 {
+    padding: 5px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .input-button {
+    padding-bottom: 15px;
+  }
+}
