@@ -1,0 +1,38 @@
+[
+  { "id": 1,
+    "image": "/images/back.png",
+    "alt": "nike back"
+  },
+  { "id": 2,
+    "image": "/images/box.jpg",
+    "alt": "box"
+  },
+  { "id": 3,
+    "image": "/images/jacket_couple.png",
+    "alt": "nike jacket"
+  },
+  { "id": 4,
+    "image": "/images/wood.jpg",
+    "alt": "wood"
+  },
+  { "id": 5,
+    "image": "/images/office_view.jpg",
+    "alt": "office view"
+  },
+  { "id": 6,
+    "image": "/images/zipper.png",
+    "alt": "nike zipper"
+  },
+  { "id": 7,
+    "image": "/images/pringles.jpg",
+    "alt": "pringles"
+  },
+  { "id": 8,
+    "image":"/images/standing_desk.jpg",
+    "alt": "standing desk"
+  },
+  { "id": 9,
+    "image":"/images/couple_sitting.png",
+    "alt": "nike sitting"
+  }
+]
