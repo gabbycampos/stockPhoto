@@ -1,13 +1,13 @@
 {
   "main.css": "/stockPhoto/static/css/main.8c0ded82.chunk.css",
-  "main.js": "/stockPhoto/static/js/main.4097d85d.chunk.js",
-  "main.js.map": "/stockPhoto/static/js/main.4097d85d.chunk.js.map",
+  "main.js": "/stockPhoto/static/js/main.9757fab2.chunk.js",
+  "main.js.map": "/stockPhoto/static/js/main.9757fab2.chunk.js.map",
   "runtime~main.js": "/stockPhoto/static/js/runtime~main.efcf9c52.js",
   "runtime~main.js.map": "/stockPhoto/static/js/runtime~main.efcf9c52.js.map",
   "static/js/2.63b07aa4.chunk.js": "/stockPhoto/static/js/2.63b07aa4.chunk.js",
   "static/js/2.63b07aa4.chunk.js.map": "/stockPhoto/static/js/2.63b07aa4.chunk.js.map",
   "index.html": "/stockPhoto/index.html",
-  "precache-manifest.e4921e58edc5f9be2ce537ac28f223f6.js": "/stockPhoto/precache-manifest.e4921e58edc5f9be2ce537ac28f223f6.js",
+  "precache-manifest.eedbfda0b2e77467a7840eaef8e41201.js": "/stockPhoto/precache-manifest.eedbfda0b2e77467a7840eaef8e41201.js",
   "service-worker.js": "/stockPhoto/service-worker.js",
   "static/css/main.8c0ded82.chunk.css.map": "/stockPhoto/static/css/main.8c0ded82.chunk.css.map"
 }
