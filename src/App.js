@@ -27,6 +27,7 @@ class App extends Component {
           </Switch>
           </div>
           <footer>
+            <h6>test</h6>
           </footer>
       </Router>
     );
