@@ -41,7 +41,7 @@ export default class PhotoGallery extends Component {
 									<Photo photo={photo} key={photo.id} style={{"width": "100%"}} />
 								))}
 							</div>
-							{/* <div className="column">
+{/* 	 						<div className="column">
 										<img src={back} alt="nike back" style={{"width": "100%"}} />
 										<img src={box} alt="box" style={{"width": "100%"}} />
 								</div>
@@ -57,11 +57,12 @@ export default class PhotoGallery extends Component {
 										<img src={pringles} alt="pringles" style={{"width": "100%"}} />
 										<img src="" alt="standing desk" style={{"width": "100%"}} />
 										<img src="" alt="nike sitting" style={{"width": "100%"}} />
-								</div> */}
-						</div>
+								</div>  */}
+						</div> 
 					</div>
 				</div>
 			</div>
 		)
 	}
 }
+ 

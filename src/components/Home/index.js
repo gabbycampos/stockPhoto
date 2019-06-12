@@ -14,7 +14,7 @@ export default class Home extends Component {
   }
   handleSubmit = (e) => {
     e.preventDefault()
-    this.props.history.push("/photo");
+    this.props.history.push("/photo"); 
   }
 
   render() {

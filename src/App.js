@@ -9,7 +9,8 @@ import {
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import PhotoGallery from './components/PhotoGallery';
-import SignUp from './components/Auth/SignUp'
+import SignUp from './components/Auth/SignUp';
+
 
 class App extends Component {
   render() {
